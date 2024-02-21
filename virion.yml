@@ -1,0 +1,8 @@
+---
+name: closure-form-utils
+antigen: kim\present\utils\closureform
+version: 1.0.0
+api: [ 5.0.0 ]
+author: PresentKim
+description: "Provides utils for handling form response via closure function!"
+...
